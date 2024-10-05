@@ -1,0 +1,11 @@
+{
+  "counterPostsId": 2,
+  "posts": [
+    {
+      "id": 1,
+      "title": "What is git push ?",
+      "description": "Use git push when you want to push your code to repository",
+      "user": "omar rayes"
+    }
+  ]
+}
